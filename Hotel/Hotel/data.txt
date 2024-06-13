@@ -1,0 +1,10 @@
+1 Null 0 0 0 0
+2 Null 0 0 0 0
+3 Null 0 0 0 0
+4 Null 0 0 0 0
+5 Null 0 0 0 0
+6 Null 0 0 0 0
+7 Null 0 0 0 0
+8 Egor 1 0 0 1
+9 Null 0 0 0 0
+10 Null 0 0 0 0

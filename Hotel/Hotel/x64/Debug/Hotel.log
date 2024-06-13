@@ -1,0 +1,4 @@
+﻿  Localisation.cpp
+F:\C++\колледж\проекты основы С++\Дедов Вадим\Hotel\Hotel\Localisation.cpp(144,42): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+F:\C++\колледж\проекты основы С++\Дедов Вадим\Hotel\Hotel\Localisation.cpp(363,42): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Hotel.vcxproj -> F:\C++\колледж\проекты основы С++\Дедов Вадим\Hotel\x64\Debug\Hotel.exe
